@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/oszs6f.jpg" width="160" style="border-radius: 20px"/>
+<img src="https://files.catbox.moe/oszs6f.jpg" width="400" style="border-radius: 0px"/>
 
 <br/>
 <br/>
