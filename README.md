@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://rahmad-elaina.my.id/file/c2807a3020.jpg" width="160" style="border-radius: 20px"/>
+<img src="https://files.catbox.moe/v95r5g.jpg" width="160" style="border-radius: 20px"/>
 
 <br/>
 <br/>
